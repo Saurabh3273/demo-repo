@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Image Classification Using CNN</h1>
+<h1 align="center">🧠 YOLO Based Image Identifier Application</h1>
 
 <p align="center">
 A deep learning web app that classifies images using Convolutional Neural Networks.<br>
